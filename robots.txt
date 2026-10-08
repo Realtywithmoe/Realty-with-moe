@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://realty-with-moe.onrender.com/sitemap.xml
